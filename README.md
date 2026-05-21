@@ -1,5 +1,3 @@
-"# QA_Automation_Project" 
-
 # QA Automation Framework Architecture & Documentation
 
 This repository houses a production-ready, highly structured **UI Test Automation Framework** engineered using **Java**, **Selenium WebDriver**, and **TestNG**. Adhering strictly to software engineering best practices, the framework implements the **Page Object Model (POM)** architectural design pattern to maximize script reusability, isolation of concerns, and ease of maintenance.
@@ -10,8 +8,10 @@ This repository houses a production-ready, highly structured **UI Test Automatio
 
 Below is the comprehensive technical overview of how data, execution flows, page elements, and external reporting modules interact within this framework:
 
-![Modern QA Automation Framework Architecture](https://images.unsplash.com/photo-1618401471353-b98aedd07871?auto=format&fit=crop&w=1200&q=80)
+![Modern QA Automation Framework Architecture](https://raw.githubusercontent.com/VedantYeola/QA_Automation_Project/main/41425679470262845.jpeg)
 *Figure 1: Conceptual layer breakdown showcasing External Interfaces, Execution Layer, Page Object Layers, and Report Data Flows.*
+
+
 
 ---
 
