@@ -8,7 +8,6 @@ This repository houses a production-ready, highly structured **UI Test Automatio
 
 Below is the comprehensive technical overview of how data, execution flows, page elements, and external reporting modules interact within this framework:
 
-![Modern QA Automation Framework Architecture](https://raw.githubusercontent.com/VedantYeola/QA_Automation_Project/main/41425679470262845.jpeg)
 *Figure 1: Conceptual layer breakdown showcasing External Interfaces, Execution Layer, Page Object Layers, and Report Data Flows.*
 
 
